@@ -1,0 +1,1 @@
+{"name":"Local: hj","url":"c:\\Users\\kaleb\\Desktop\\programação\\codeforces-training\\hj.py","tests":[{"id":1758749552932,"input":"4\n2\n3\n7\n17\n","output":"-1\n1\n2 \n2\n2 2 \n4\n2 1 1 1 \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\kaleb\\Desktop\\programação\\codeforces-training\\hj.py","group":"local","local":true}

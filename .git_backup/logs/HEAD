@@ -1,0 +1,33 @@
+0000000000000000000000000000000000000000 175452ff97396515bcbcd53e8af53e63ae6c4375 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1755638274 -0300	commit (initial): first commit: day1
+175452ff97396515bcbcd53e8af53e63ae6c4375 0000000000000000000000000000000000000000 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1755638475 -0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 175452ff97396515bcbcd53e8af53e63ae6c4375 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1755638475 -0300	Branch: renamed refs/heads/master to refs/heads/main
+175452ff97396515bcbcd53e8af53e63ae6c4375 c04863bd56e079b68a7444526a125fdb0c5ca397 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1755640095 -0300	commit: Day2
+c04863bd56e079b68a7444526a125fdb0c5ca397 8a3048620a9e2cedcccc143e1c9bcbe34fa13906 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1755640273 -0300	commit: day2
+8a3048620a9e2cedcccc143e1c9bcbe34fa13906 3b91ad940613088305c57f98a58043835fbebed5 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1755640343 -0300	commit (merge): Day2 problems
+3b91ad940613088305c57f98a58043835fbebed5 eee941bb67ebcafe493eeb6682c0e16653c48fee KalebeSouza-dev <kalebesouza.cc@gmail.com> 1755737816 -0300	commit: day3
+eee941bb67ebcafe493eeb6682c0e16653c48fee 7bdecd7ed939cda3dfda469ae752b6d67fcfa4e1 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1755802578 -0300	commit: day4
+7bdecd7ed939cda3dfda469ae752b6d67fcfa4e1 28c4de49bd52c4cd44505c3340f45edac6e002ca KalebeSouza-dev <kalebesouza.cc@gmail.com> 1755914092 -0300	commit: day5
+28c4de49bd52c4cd44505c3340f45edac6e002ca aee7ffd46cde33a54d41ea5d101fe769f6a75f6f KalebeSouza-dev <kalebesouza.cc@gmail.com> 1756002442 -0300	commit: day6
+aee7ffd46cde33a54d41ea5d101fe769f6a75f6f d17f6b66a2a4454625bbaaae0820c18a99c99e83 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1756081422 -0300	commit: day7
+d17f6b66a2a4454625bbaaae0820c18a99c99e83 1256c958665e46e1d9e2c4464bdf45ef8c095230 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1756172079 -0300	commit: day8
+1256c958665e46e1d9e2c4464bdf45ef8c095230 b9969d6faf7021193f71d7bbd3491d8145ff319c KalebeSouza-dev <kalebesouza.cc@gmail.com> 1756242993 -0300	commit: day9
+b9969d6faf7021193f71d7bbd3491d8145ff319c c8fd42dea25f8da4e7f98d4672be70ee8a5abb1c KalebeSouza-dev <kalebesouza.cc@gmail.com> 1756402770 -0300	commit: day10
+c8fd42dea25f8da4e7f98d4672be70ee8a5abb1c 63b984e892f8f1589e891538f7ec946d62e430ea KalebeSouza-dev <kalebesouza.cc@gmail.com> 1756418952 -0300	commit: day11
+63b984e892f8f1589e891538f7ec946d62e430ea 6a714fd9c79d0f4e84686f60a37549bb97b64003 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1756517159 -0300	commit: day12
+6a714fd9c79d0f4e84686f60a37549bb97b64003 532d419930fa283cb43f716f8e862952d40b99ea KalebeSouza-dev <kalebesouza.cc@gmail.com> 1756592303 -0300	commit: day13
+532d419930fa283cb43f716f8e862952d40b99ea e63022794f267512b6d4d61ca21b0c70ec5ea156 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1756763415 -0300	commit: day14
+e63022794f267512b6d4d61ca21b0c70ec5ea156 6ddeaed77fd10201e46e7860282dd1a62e0d07c2 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1756765000 -0300	commit: day15
+6ddeaed77fd10201e46e7860282dd1a62e0d07c2 5c81828bc0d58dfff9ab0eb2f82acd50d3f7df74 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1756765201 -0300	commit: Organização
+5c81828bc0d58dfff9ab0eb2f82acd50d3f7df74 b92dba28810a988013a99b2a059dd059867648b2 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1756765464 -0300	commit: Organizando pastas por semanas
+b92dba28810a988013a99b2a059dd059867648b2 af5dd0d019e8d1e27c7f3ad10da4dd45933dc186 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1756811394 -0300	commit: day16.1
+af5dd0d019e8d1e27c7f3ad10da4dd45933dc186 feb3d3a62af324097abe65d3ca9f878251724c66 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1756849877 -0300	commit: day16
+feb3d3a62af324097abe65d3ca9f878251724c66 eef2ca5a1ccf21ec0d007b132c177a5cea47d580 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1756931262 -0300	commit: day17
+eef2ca5a1ccf21ec0d007b132c177a5cea47d580 64148cdb11073f3c165ef390dc0ae1e46383b1d6 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1757032105 -0300	commit: day18
+64148cdb11073f3c165ef390dc0ae1e46383b1d6 d68c51d442eaa31ca6e18c674e51989662f8c818 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1757125551 -0300	commit: day19
+d68c51d442eaa31ca6e18c674e51989662f8c818 4d33146645301c499615588c958ddd7ddc0674ea KalebeSouza-dev <kalebesouza.cc@gmail.com> 1757199623 -0300	commit: day20
+4d33146645301c499615588c958ddd7ddc0674ea 034cb26aee7326420d9a7636915f2cb42b64666d KalebeSouza-dev <kalebesouza.cc@gmail.com> 1757377710 -0300	commit: day22
+034cb26aee7326420d9a7636915f2cb42b64666d d9a44c61e0b94ddfe3c17a044ad31738e6eca9ab KalebeSouza-dev <kalebesouza.cc@gmail.com> 1757464384 -0300	commit: day22
+d9a44c61e0b94ddfe3c17a044ad31738e6eca9ab 7506edb29ad956767fc0e37b1a135445130c9abb KalebeSouza-dev <kalebesouza.cc@gmail.com> 1757527273 -0300	commit: day24
+7506edb29ad956767fc0e37b1a135445130c9abb d9e0748748ef47778cc5b20630a315209f44a734 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1757638513 -0300	commit: day25
+d9e0748748ef47778cc5b20630a315209f44a734 d379820c28a30f78a9f0c4aec55ca9899f72d933 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1757888740 -0300	commit: day26/27/28
+d379820c28a30f78a9f0c4aec55ca9899f72d933 a359c9f3c0b322fc5b6e2bbcc6c12c02315d94f3 KalebeSouza-dev <kalebesouza.cc@gmail.com> 1758155012 -0300	commit: day30
